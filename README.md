@@ -9,5 +9,5 @@ Here's a list of things I would love to learn:
 - React, Redux
 - Vue.js
 
-📫 Contact me: @a_falconia
+📫 Contact me: @a_falkonia
 
