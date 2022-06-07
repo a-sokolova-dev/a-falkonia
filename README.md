@@ -4,7 +4,7 @@ Here's what I'm currently working on:
 
 - Adaptive and responsive design
 - CSS Grid / CSS Flexbox
-- MERN (MongoDB, Express, React, Node.js)
+- Pixel perfect layouts
 
 📫 Contact me: @a_falkonia
 
