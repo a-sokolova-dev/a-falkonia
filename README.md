@@ -1,10 +1,8 @@
-👋 Hi, I’m Anna, a Junior Frontend developer!
+###  Hi, I’m Anna, a Frontend Dev 👋
+Currently working with JavaScript, React, SCSS.
 
-Here's what I'm currently working on:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-falkonia&layout=compact)](https://github.com/a-falkonia/github-readme-stats)
 
-- Adaptive and responsive design
-- CSS Grid / CSS Flexbox
-- Pixel perfect layouts
-
-📫 Contact me: @a_falkonia
+### Contact me
+Telegram: @a_falkonia
 
